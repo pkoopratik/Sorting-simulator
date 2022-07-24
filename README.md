@@ -9,10 +9,10 @@
 - Merge Sort
 
 
-# can be used for various arrays of integer
-# we can give any array as an input
-# we can change size of array
-# we can increase or decrease speed of simulation
+# Can be used for various arrays of integer
+# We can give any array as an input
+# We can change size of array
+# We can increase or decrease speed of simulation
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
